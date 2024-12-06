@@ -106,8 +106,11 @@ print("my webserver id running....")
 httpd.serve_forever()
 ```
 # OUTPUT:
-![Screenshot (30)](https://github.com/user-attachments/assets/eb03c437-8d13-419b-a811-8a4d2b902706)
+![Screenshot (40)](https://github.com/user-attachments/assets/81b946dc-ddc8-4273-b0e7-4132c5023fcf)
 
+![Screenshot (41)](https://github.com/user-attachments/assets/26128158-c158-4589-b347-4c2076960afa)
+
+![Screenshot (42)](https://github.com/user-attachments/assets/d4f0ecf6-a408-4b71-a4bc-30b704054f09)
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
